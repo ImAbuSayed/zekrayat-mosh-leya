@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور عيني
+> في قلبي نار الشوق
+> أنت فرحة سنيني
+> أنت لي كل الشروق
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
